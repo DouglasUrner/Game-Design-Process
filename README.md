@@ -1,6 +1,6 @@
 # Game Design Process
 
-Resources on the design process and the process of designing games, collected from the point of view of an educator whose intersests in games are in their ability to engage people (especially high school students) and their abilty to build understanding.
+Resources on the design process and the process of designing games, collected from the point of view of an educator whose intersests in games are in their ability to engage people (especially high school students) and their ability to build understanding.
 
 Some of the more relevant seeming playlists found at [TED.com](https://ted.com) by searching on "games" - there are lots more interesting looking hits, search for yourself too.
 
